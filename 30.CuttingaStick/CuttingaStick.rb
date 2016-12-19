@@ -30,7 +30,7 @@ class Stick
 
 end
 
-p Stick.new(100).cut_times
-p Stick.new(101).cut_times
-p Stick.new(102).cut_times
+p Stick.new(127).cut_times
+p Stick.new(128).cut_times
+p Stick.new(129).cut_times
 p Stick.new(1000).cut_times
